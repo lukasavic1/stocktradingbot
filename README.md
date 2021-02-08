@@ -1,6 +1,8 @@
 # Stock Trading Bot
 
-This repository contains implementation of Reccurent Neural Networks using Keras and Tensorflow in order to make a stock trading bot. The inspiration for the project was SentDex's video about cryptocurrency trading bot using RNN which you can see [here](https://pythonprogramming.net/cryptocurrency-recurrent-neural-network-deep-learning-python-tensorflow-keras/).
+This repository contains implementation of Reccurent Neural Networks using Keras and Tensorflow in order to make a stock trading bot. The inspiration for the project was SentDex's video about cryptocurrency trading bot using RNN which you can see [here](https://pythonprogramming.net/cryptocurrency-recurrent-neural-network-deep-learning-python-tensorflow-keras/). I tried to make this project different and more practical than others that you can find online. I hope that you'll find some inspiration, learn something, or build up on this project and come out with something even better!
+
+**Let's begin!**
 
 ## Table of Contents
 - **Preprocessing data**
@@ -136,5 +138,5 @@ The fact that accuracy is fluctuating by 5-10% easily is normal from the aspect 
 
 ### Connect with me
 This wraps up my explanation of this project, I hope that I was clear and if you want to connect with me:
-- Send me an email (lukasavic18@gmail.com)
-- Follow me on [LinkedIn](https://www.linkedin.com/in/luka-savic-a73504206/)
+- Send me an email (lukasavic18@gmail.com) 📚
+- Follow me on [LinkedIn](https://www.linkedin.com/in/luka-savic-a73504206/) 💡
